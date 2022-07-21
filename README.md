@@ -1,16 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alireza Fattahi</h1>
+<h3 align="center">Love coding and learning</h3>
 
-<!--
-**alirexaft/alirexaft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Django
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.djangoproject.com/">
+<img align="center" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+
+</a>
