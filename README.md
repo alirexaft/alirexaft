@@ -12,9 +12,9 @@ I’m currently working on Django, Nodejs, Reactjs
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alirexaft&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirexaft&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
+<!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Alirexa_FT)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+ -->
 ---
 [![](https://visitcount.itsvg.in/api?id=alirexaft&icon=5&color=0)](https://visitcount.itsvg.in)
 
